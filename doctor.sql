@@ -40,7 +40,8 @@ CREATE TABLE `doctor` (
 --
 
 INSERT INTO `doctor` (`doc_num`, `doc_ID`, `name`, `gender`, `specialist`) VALUES
-(1, '01', 'mnw', 'm', 'a');
+(12, '0001', 'dr.sandeep', 'male', 'Cardiologists'),
+(13, '0002', 'dr.aruna', 'male', 'Gastroenterologists');
 
 
 --
